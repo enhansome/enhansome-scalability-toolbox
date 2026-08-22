@@ -52,7 +52,7 @@
 [dbdiagrams (DB ERD)](https://dbdiagram.io/) <br>
 [Workload Discovery on AWS](https://aws.amazon.com/solutions/implementations/workload-discovery-on-aws/) <br>
 [Cloudcraft (AWS only)](https://cloudcraft.co/) <br>
-[vega (visualization from JSON)](https://github.com/vega/vega) ⭐ 11,964 | 🐛 470 | 🌐 JavaScript | 📅 2026-08-14 and [vega light](https://github.com/vega/vega-lite) ⭐ 5,459 | 🐛 818 | 🌐 TypeScript | 📅 2026-08-19 <br>
+[vega (visualization from JSON)](https://github.com/vega/vega) ⭐ 11,967 | 🐛 471 | 🌐 JavaScript | 📅 2026-08-14 and [vega light](https://github.com/vega/vega-lite) ⭐ 5,459 | 🐛 818 | 🌐 TypeScript | 📅 2026-08-19 <br>
 [arc42](https://arc42.org/) <br>
 
 # API documentation
@@ -61,17 +61,17 @@
 [Swagger](https://swagger.io/) <br>
 [Wording](https://www.ietf.org/rfc/rfc2119.txt), [definition syntax](https://www.ietf.org/rfc/rfc5234.txt) and [units](http://unitsofmeasure.org/ucum.html) for RFC specification creation <br>
 [API Stylebook](http://apistylebook.com/) <br>
-[Spectral (API linter)](https://github.com/stoplightio/spectral) ⭐ 3,185 | 🐛 273 | 🌐 TypeScript | 📅 2026-08-19 <br>
+[Spectral (API linter)](https://github.com/stoplightio/spectral) ⭐ 3,186 | 🐛 273 | 🌐 TypeScript | 📅 2026-08-19 <br>
 [Dredd (API tester)](https://github.com/apiaryio/dredd) ⚠️ Archived <br>
 [Zally (API linter)](https://github.com/zalando/zally) ⭐ 946 | 🐛 101 | 🌐 Kotlin | 📅 2026-07-08 <br>
 [GraphQL](https://graphql.org/), [UI client](https://altair.sirmuel.design/) <br>
 
 # Message queues
 
-Real-time (<1ms): [Aeron](https://github.com/real-logic/Aeron) ⭐ 8,808 | 🐛 24 | 🌐 Java | 📅 2026-08-21, [Chronicle Queue](https://github.com/OpenHFT/Chronicle-Queue) ⭐ 3,796 | 🐛 42 | 🌐 Java | 📅 2026-08-20 <br>
+Real-time (<1ms): [Aeron](https://github.com/real-logic/Aeron) ⭐ 8,811 | 🐛 24 | 🌐 Java | 📅 2026-08-21, [Chronicle Queue](https://github.com/OpenHFT/Chronicle-Queue) ⭐ 3,796 | 🐛 42 | 🌐 Java | 📅 2026-08-20 <br>
 Brokerless: [ZeroMQ](http://zeromq.org/), [nanomsg](http://nanomsg.org/), [NSQ](https://nsq.io/), [nng](https://github.com/nanomsg/nng) ⭐ 4,656 | 🐛 65 | 🌐 C | 📅 2026-08-02 <br>
-[Kafka](https://kafka.apache.org/), Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq) ⭐ 3,848 | 🐛 275 | 🌐 Java | 📅 2026-08-17, [Kafdrop](https://github.com/obsidiandynamics/kafdrop) ⭐ 6,155 | 🐛 51 | 🌐 Java | 📅 2026-08-11, [Kowl](https://github.com/cloudhut/kowl) ⭐ 4,322 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-20, [Lenses Box](https://github.com/lensesio/fast-data-dev) ⭐ 2,079 | 🐛 81 | 🌐 Shell | 📅 2025-11-20 <br>
-[Redpanda (Kafka compatible)](https://github.com/redpanda-data/redpanda/) ⭐ 12,463 | 🐛 592 | 🌐 C++ | 📅 2026-08-20 <br>
+[Kafka](https://kafka.apache.org/), Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq) ⭐ 3,848 | 🐛 275 | 🌐 Java | 📅 2026-08-17, [Kafdrop](https://github.com/obsidiandynamics/kafdrop) ⭐ 6,154 | 🐛 51 | 🌐 Java | 📅 2026-08-11, [Kowl](https://github.com/cloudhut/kowl) ⭐ 4,323 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-21, [Lenses Box](https://github.com/lensesio/fast-data-dev) ⭐ 2,079 | 🐛 81 | 🌐 Shell | 📅 2025-11-20 <br>
+[Redpanda (Kafka compatible)](https://github.com/redpanda-data/redpanda/) ⭐ 12,465 | 🐛 590 | 🌐 C++ | 📅 2026-08-22 <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
 [Pulsar](https://pulsar.apache.org/) <br>
 [RocketMQ](https://rocketmq.apache.org/) <br>
@@ -80,7 +80,7 @@ Brokerless: [ZeroMQ](http://zeromq.org/), [nanomsg](http://nanomsg.org/), [NSQ](
 
 # Load balancers, reverse proxy, accelerators, web servers
 
-[HAProxy](http://www.haproxy.org/), [Unofficial Web UI](https://github.com/Aidaho12/haproxy-wi) ⭐ 1,816 | 🐛 7 | 🌐 Python | 📅 2026-08-18 <br>
+[HAProxy](http://www.haproxy.org/), [Unofficial Web UI](https://github.com/Aidaho12/haproxy-wi) ⭐ 1,818 | 🐛 7 | 🌐 Python | 📅 2026-08-18 <br>
 [Envoy](https://www.envoyproxy.io/) and [Dropbox migration to Envoy from nginx](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy) <br>
 [nginx](https://www.nginx.com/), [nginx config](https://nginxconfig.io/) <br>
 [OpenResty](https://openresty.org/en/) <br>
@@ -89,7 +89,7 @@ Brokerless: [ZeroMQ](http://zeromq.org/), [nanomsg](http://nanomsg.org/), [NSQ](
 [Træfik](https://traefik.io/) <br>
 [Tarantool (mail.ru)](https://tarantool.org/) <br>
 [lightttpd](https://www.lighttpd.net/) <br>
-[katran (BPF/XDP L4LB, Facebook)](https://github.com/facebookincubator/katran) ⭐ 5,295 | 🐛 0 | 🌐 C | 📅 2026-08-20 <br>
+[katran (BPF/XDP L4LB, Facebook)](https://github.com/facebookincubator/katran) ⭐ 5,298 | 🐛 0 | 🌐 C | 📅 2026-08-21 <br>
 [GLB Director (DPDK L4LB, Github)](https://github.com/github/glb-director) ⭐ 2,452 | 🐛 33 | 🌐 C | 📅 2026-08-17 <br>
 [Cloudflare Unimog design](https://blog.cloudflare.com/unimog-cloudflares-edge-load-balancer/) <br>
 
@@ -126,7 +126,7 @@ Brokerless: [ZeroMQ](http://zeromq.org/), [nanomsg](http://nanomsg.org/), [NSQ](
 [PostgreSQL](https://www.postgresql.org/) <br>
 [Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
 [RDS Postgres vs Aurora Postgres 13](https://www.migops.com/blog/2021/11/26/is-aurora-postgresql-really-faster-and-cheaper-than-rds-postgresql-benchmarking/) <br>
-[MySQL](https://www.mysql.com/), [ProxySQL (for MySQL)](https://proxysql.com/), [mydumper (MySQL multi-threaded backup/restore)](https://github.com/maxbube/mydumper) ⭐ 3,208 | 🐛 59 | 🌐 C | 📅 2026-08-18 <br>
+[MySQL](https://www.mysql.com/), [ProxySQL (for MySQL)](https://proxysql.com/), [mydumper (MySQL multi-threaded backup/restore)](https://github.com/maxbube/mydumper) ⭐ 3,208 | 🐛 60 | 🌐 C | 📅 2026-08-21 <br>
 [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524) <br>
 [Vitess (MySQL auto horizontal scaling)](http://vitess.io/) <br>
 [MariaDB (MySQL)](https://mariadb.com/) <br>
@@ -142,13 +142,13 @@ Brokerless: [ZeroMQ](http://zeromq.org/), [nanomsg](http://nanomsg.org/), [NSQ](
 [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases) <br>
 [Redis](https://redis.io/), [Community Slack Channel](https://rediscommunity.slack.com/) <br>
 Redis modules: [5 open source modules](https://goodformcode.com/), [JSON module](https://github.com/RedisJSON/RedisJSON) ⭐ 3,949 | 🐛 178 | 🌐 Rust | 📅 2026-08-20 <br>
-Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,654 | 🐛 156 | 🌐 JavaScript | 📅 2026-08-20, [Redis-UI](https://github.com/patrikx3/redis-ui/) ⭐ 805 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-29, [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) ⭐ 23,228 | 🐛 70 | 🌐 C++ | 📅 2024-07-10 <br>
+Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) ⭐ 34,669 | 🐛 158 | 🌐 JavaScript | 📅 2026-08-20, [Redis-UI](https://github.com/patrikx3/redis-ui/) ⭐ 806 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-29, [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) ⭐ 23,229 | 🐛 70 | 🌐 C++ | 📅 2024-07-10 <br>
 [iredis (improved CLI for Redis)](https://github.com/laixintao/iredis/) ⭐ 2,740 | 🐛 50 | 🌐 Python | 📅 2026-07-27 <br>
 [KeyDB (Redis fork with I/O multithreading and offloading to flash)](https://keydb.dev/) <br>
 [Memcached](https://github.com/memcached/memcached/) ⭐ 14,254 | 🐛 103 | 🌐 C | 📅 2026-07-10, [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore) ⭐ 14,254 | 🐛 103 | 🌐 C | 📅 2026-07-10, [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/) <br>
 [Memcached-SR with BMC(BPF Memory Cache)](https://github.com/Orange-OpenSource/bmc-cache) ⭐ 464 | 🐛 11 | 🌐 C | 📅 2021-09-24 and it's [paper with video](https://pchaigno.github.io/ebpf/2021/04/12/bmc-accelerating-memcached-using-bpf-and-xdp.html) <br>
 [Segcache (in-memory storage optimized for small objects with short TTL, Twitter)](https://github.com/Thesys-lab/Segcache) ⭐ 121 | 🐛 2 | 🌐 C | 📅 2023-05-15 <br>
-[FASTER (Microsoft)](https://github.com/Microsoft/FASTER) ⭐ 6,638 | 🐛 35 | 🌐 C# | 📅 2026-08-19, [official site](https://www.microsoft.com/en-us/research/project/FASTER/) <br>
+[FASTER (Microsoft)](https://github.com/Microsoft/FASTER) ⭐ 6,639 | 🐛 35 | 🌐 C# | 📅 2026-08-19, [official site](https://www.microsoft.com/en-us/research/project/FASTER/) <br>
 [Anna (experimental, Berkeley RISE Lab)](https://github.com/fluent-project/fluent/tree/master/kvs) ⚠️ Archived, [white paper](https://arxiv.org/abs/1809.00089) <br>
 [LogDevice (Facebook, distributed storage for sequential data)](https://github.com/facebookincubator/LogDevice) ⚠️ Archived <br>
 [OrientDB (graph)](https://orientdb.com/) <br>
@@ -166,7 +166,7 @@ Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesk
 [Consul](https://www.consul.io/) <br>
 [etcd](https://coreos.com/etcd/) <br>
 [Vault](https://www.vaultproject.io/) <br>
-[Secure Production Identity Framework For Everyone (SPIFFE)](https://github.com/spiffe/spiffe) ⭐ 1,829 | 🐛 49 | 🌐 Shell | 📅 2026-08-03 <br>
+[Secure Production Identity Framework For Everyone (SPIFFE)](https://github.com/spiffe/spiffe) ⭐ 1,829 | 🐛 50 | 🌐 Shell | 📅 2026-08-03 <br>
 [ZooKeeper](https://zookeeper.apache.org/) <br>
 
 # CRDT and Operational transformation
@@ -175,8 +175,8 @@ Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesk
 White papers: [Original Jupiter document (1995)](https://dl.acm.org/doi/pdf/10.1145/215585.215706), [Jupiter Made Abstract, and Then Refined (2020)](https://hengxin.github.io/papers/2020-JCST-Jupiter.pdf) <br>
 Libraries: [sharedb](https://github.com/share/sharedb) ⭐ 6,536 | 🐛 156 | 🌐 JavaScript | 📅 2026-07-31, [ottypes](https://github.com/orgs/ottypes/repositories), [libot](https://github.com/ottypes/libot) ⭐ 113 | 🐛 0 | 🌐 C | 📅 2015-07-30 <br>
 Articles: [Collaborative Editing in CodeMirror](https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html) <br> <b>CRDT</b> <br>
-Libraries: [Automerge](https://github.com/automerge/automerge) ⭐ 6,519 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-19, [Yjs](https://github.com/yjs/yjs) ⭐ 22,618 | 🐛 136 | 🌐 JavaScript | 📅 2026-08-06, [Diamond Types (speed oriented)](https://github.com/josephg/diamond-types) ⭐ 1,830 | 🐛 19 | 🌐 Rust | 📅 2026-07-31, [Reference CRTS implementation](https://github.com/josephg/reference-crdts) ⭐ 142 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-01, [Yjs (port to Rust)](https://github.com/y-crdt/y-crdt) ⭐ 2,148 | 🐛 114 | 🌐 Rust | 📅 2026-08-08, [teletype (Atom, deprecated)](https://github.com/atom/teletype-crdt) ⚠️ Archived <br>
-[CRDT benchmarking](https://github.com/dmonad/crdt-benchmarks) ⭐ 537 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-29 <br>
+Libraries: [Automerge](https://github.com/automerge/automerge) ⭐ 6,522 | 🐛 109 | 🌐 JavaScript | 📅 2026-08-21, [Yjs](https://github.com/yjs/yjs) ⭐ 22,666 | 🐛 136 | 🌐 JavaScript | 📅 2026-08-06, [Diamond Types (speed oriented)](https://github.com/josephg/diamond-types) ⭐ 1,830 | 🐛 19 | 🌐 Rust | 📅 2026-07-31, [Reference CRTS implementation](https://github.com/josephg/reference-crdts) ⭐ 142 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-01, [Yjs (port to Rust)](https://github.com/y-crdt/y-crdt) ⭐ 2,148 | 🐛 114 | 🌐 Rust | 📅 2026-08-22, [teletype (Atom, deprecated)](https://github.com/atom/teletype-crdt) ⚠️ Archived <br>
+[CRDT benchmarking](https://github.com/dmonad/crdt-benchmarks) ⭐ 538 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-29 <br>
 [Collection of whitepapers and articles](https://github.com/alangibson/awesome-crdt) ⭐ 1,397 | 🐛 0 | 📅 2026-07-28 <br>
 
 # Infrastructure provisioning
@@ -185,7 +185,7 @@ Libraries: [Automerge](https://github.com/automerge/automerge) ⭐ 6,519 | 🐛 
 [Terragrunt](https://terragrunt.gruntwork.io/) <br>
 [Terraform best practices](https://www.terraform-best-practices.com/) <br>
 [Terraform AWS modules](https://github.com/terraform-aws-modules) <br>
-[Infracost - calculate Terraform deployment costs (AWS)](https://github.com/infracost/infracost) ⭐ 12,475 | 🐛 22 | 🌐 Go | 📅 2026-08-20 <br>
+[Infracost - calculate Terraform deployment costs (AWS)](https://github.com/infracost/infracost) ⭐ 12,479 | 🐛 21 | 🌐 Go | 📅 2026-08-21 <br>
 [modules.tf - Convert Cloudcraft diagrams to Terraform code](https://modules.tf/) <br>
 [Pulumi](https://www.pulumi.com/) <br>
 [Crossplain](https://crossplane.io/) <br>
@@ -207,52 +207,52 @@ Libraries: [Automerge](https://github.com/automerge/automerge) ⭐ 6,519 | 🐛 
 # Containers
 
 [Docker](https://www.docker.com/) <br>
-Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/quay/quay) ⭐ 2,821 | 🐛 285 | 🌐 Python | 📅 2026-08-21 <br>
-[Awesome Docker list](https://github.com/veggiemonk/awesome-docker) ⭐ 36,675 | 🐛 14 | 📅 2026-08-19 <br>
+Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/quay/quay) ⭐ 2,821 | 🐛 297 | 🌐 Python | 📅 2026-08-22 <br>
+[Awesome Docker list](https://github.com/veggiemonk/awesome-docker) ⭐ 36,682 | 🐛 15 | 📅 2026-08-19 <br>
 [docker-autoheal (restart on unhealthy event)](https://github.com/willfarrell/docker-autoheal) ⭐ 1,986 | 🐛 62 | 🌐 Shell | 📅 2025-09-09 <br>
 [Kubernetes](https://kubernetes.io/) <br>
-[Container Network Interface](https://github.com/containernetworking/cni) ⭐ 6,101 | 🐛 156 | 🌐 Go | 📅 2026-08-13 <br>
+[Container Network Interface](https://github.com/containernetworking/cni) ⭐ 6,102 | 🐛 156 | 🌐 Go | 📅 2026-08-13 <br>
 [Mesosphere](https://mesosphere.com/) <br>
 [Mesos](https://mesos.apache.org/) <br>
-[gVisor (sandbox runtime)](https://github.com/google/gvisor) ⭐ 19,132 | 🐛 781 | 🌐 Go | 📅 2026-08-21 <br>
+[gVisor (sandbox runtime)](https://github.com/google/gvisor) ⭐ 19,134 | 🐛 796 | 🌐 Go | 📅 2026-08-22 <br>
 [Weave Scope (monitoring)](https://github.com/weaveworks/scope) ⭐ 5,908 | 🐛 455 | 🌐 Go | 📅 2023-07-07 <br>
 [SysDig (monitoring)](https://github.com/draios/sysdig) ⭐ 8,286 | 🐛 116 | 🌐 C++ | 📅 2026-04-13 <br>
 
 # Kubernetes
 
-[Lens (k8s IDE)](https://github.com/lensapp/lens) ⭐ 23,218 | 🐛 1,169 | 📅 2025-02-11 <br>
-[k9s (alternative cli)](https://github.com/derailed/k9s) ⭐ 34,398 | 🐛 113 | 🌐 Go | 📅 2026-08-20 <br>
+[Lens (k8s IDE)](https://github.com/lensapp/lens) ⭐ 23,219 | 🐛 1,169 | 📅 2025-02-11 <br>
+[k9s (alternative cli)](https://github.com/derailed/k9s) ⭐ 34,408 | 🐛 110 | 🌐 Go | 📅 2026-08-21 <br>
 [minikube](https://minikube.sigs.k8s.io/) <br>
 [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) <br>
-[Krew (kubectl plugin manager)](https://krew.dev/), [list of plugins](https://github.com/kubernetes-sigs/krew-index/blob/master/plugins.md) ⭐ 693 | 🐛 11 | 📅 2026-08-21 <br>
-[kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,143 | 🐛 197 | 🌐 Go | 📅 2026-08-20 <br>
+[Krew (kubectl plugin manager)](https://krew.dev/), [list of plugins](https://github.com/kubernetes-sigs/krew-index/blob/master/plugins.md) ⭐ 694 | 🐛 11 | 📅 2026-08-21 <br>
+[kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,142 | 🐛 196 | 🌐 Go | 📅 2026-08-20 <br>
 [Helm](https://helm.sh/) <br>
 [Knative (run serverless apps on top of Istio](https://knative.dev/) <br>
 [List of K8s application management tools](https://docs.google.com/spreadsheets/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/edit#gid=0) <br>
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
 [ksonnet](https://ksonnet.io/) <br>
 [kubecfg](https://github.com/ksonnet/kubecfg) ⚠️ Archived <br>
-[Skaffold](https://github.com/GoogleCloudPlatform/skaffold) ⭐ 15,888 | 🐛 907 | 🌐 Go | 📅 2026-08-20 <br>
+[Skaffold](https://github.com/GoogleCloudPlatform/skaffold) ⭐ 15,889 | 🐛 907 | 🌐 Go | 📅 2026-08-20 <br>
 [Draft](https://github.com/Azure/draft) ⭐ 642 | 🐛 24 | 🌐 Go | 📅 2026-08-07 <br>
 [Kubespray (cluster setup)](https://kubespray.io/) <br>
-[kops (cluster setup)](https://github.com/kubernetes/kops) ⭐ 16,665 | 🐛 131 | 🌐 Go | 📅 2026-08-20 <br>
+[kops (cluster setup)](https://github.com/kubernetes/kops) ⭐ 16,666 | 🐛 132 | 🌐 Go | 📅 2026-08-21 <br>
 [kubectx & kubens (switch clusters and namespaces](https://github.com/ahmetb/kubectx) ⭐ 19,952 | 🐛 39 | 🌐 Go | 📅 2026-08-02 <br>
 [goldpinger (nodes connectivity test/display](https://github.com/bloomberg/goldpinger) ⭐ 2,733 | 🐛 36 | 🌐 JavaScript | 📅 2026-04-23 <br>
 [kube-ps1 (bash prompt)](https://github.com/jonmosco/kube-ps1) ⭐ 3,806 | 🐛 5 | 🌐 Shell | 📅 2026-05-24 <br>
 [stern (pod and container logs tailing)](https://github.com/wercker/stern) <br>
 [click (cli for large clusters)](https://github.com/databricks/click) ⭐ 1,506 | 🐛 39 | 🌐 Rust | 📅 2026-03-27 <br>
 [Telepresence (for k8s services development)](https://www.telepresence.io/) <br>
-[Cilium](https://github.com/cilium/cilium) ⭐ 24,984 | 🐛 1,108 | 🌐 Go | 📅 2026-08-21 <br>
+[Cilium](https://github.com/cilium/cilium) ⭐ 24,993 | 🐛 1,104 | 🌐 Go | 📅 2026-08-21 <br>
 [Calico](https://www.projectcalico.org) <br>
 [AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) ⭐ 365 | 🐛 15 | 🌐 Go | 📅 2023-08-30 <br>
-[Contour (Ingress controller using Envoy)](https://github.com/heptio/contour) ⭐ 3,945 | 🐛 123 | 🌐 HTML | 📅 2026-08-18 <br>
+[Contour (Ingress controller using Envoy)](https://github.com/heptio/contour) ⭐ 3,945 | 🐛 124 | 🌐 HTML | 📅 2026-08-18 <br>
 [Gimbal (Ingress load balancer to many clusters)](https://github.com/heptio/gimbal) ⚠️ Archived <br>
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) ⚠️ Archived and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
 [Weave Scope (Monitoring, visualisation & management for k8s)](https://github.com/weaveworks/scope/) ⭐ 5,908 | 🐛 455 | 🌐 Go | 📅 2023-07-07 <br>
 [Guide to Kubernetes networking (part 1)](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727), [Part 2](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-2-13fdc6c4e24c) <br>
 [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice) ⭐ 2,706 | 🐛 12 | 📅 2019-09-11 <br>
 [RBAC and user managemenet generation using Web UI](https://github.com/sighupio/permission-manager) ⭐ 1,373 | 🐛 34 | 🌐 TypeScript | 📅 2024-05-12 <br>
-[Chaos mesh](https://github.com/pingcap/chaos-mesh) ⭐ 7,849 | 🐛 550 | 🌐 Go | 📅 2026-08-18 <br>
+[Chaos mesh](https://github.com/pingcap/chaos-mesh) ⭐ 7,850 | 🐛 551 | 🌐 Go | 📅 2026-08-18 <br>
 
 # Jsonnet
 
@@ -272,16 +272,16 @@ Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/qua
 [MessagePack](https://msgpack.org/) <br>
 [FlatBuffers](https://google.github.io/flatbuffers/) <br>
 [Motan](https://github.com/weibocom/motan) ⭐ 5,873 | 🐛 364 | 🌐 Java | 📅 2025-11-24 <br>
-[Aeron](https://github.com/real-logic/aeron) ⭐ 8,808 | 🐛 24 | 🌐 Java | 📅 2026-08-21 <br>
+[Aeron](https://github.com/real-logic/aeron) ⭐ 8,811 | 🐛 24 | 🌐 Java | 📅 2026-08-21 <br>
 [ZeroMQ](http://zeromq.org/) <br>
 [SMF](https://github.com/senior7515/smf) ⭐ 21 | 🐛 0 | 🌐 C++ | 📅 2019-11-03 <br>
 
 # gRPC
 
 [Awesome gRPC list](https://github.com/grpc-ecosystem/awesome-grpc) ⭐ 8,353 | 🐛 26 | 📅 2025-10-28 <br>
-[gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) ⭐ 45,233 | 🐛 1,382 | 🌐 C++ | 📅 2026-08-21 <br>
+[gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) ⭐ 45,239 | 🐛 1,383 | 🌐 C++ | 📅 2026-08-21 <br>
 [gRPC Field Mask](https://developers.google.com/protocol-buffers/docs/reference/csharp/class/google/protobuf/well-known-types/field-mask) and Netflix guide to using it [Get operations](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518) and [Update operations](https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4) <br>
-[gRPC field presence (v3.15+)](https://github.com/protocolbuffers/protobuf/blob/master/docs/field_presence.md) ⭐ 71,749 | 🐛 323 | 🌐 C++ | 📅 2026-08-21 <br>
+[gRPC field presence (v3.15+)](https://github.com/protocolbuffers/protobuf/blob/master/docs/field_presence.md) ⭐ 71,787 | 🐛 314 | 🌐 C++ | 📅 2026-08-22 <br>
 [Insomnia (test client)](https://insomnia.rest/) <br>
 [Postman (test client)](https://www.postman.com/) <br>
 [Hoppscotch (test client)](https://hoppscotch.io/) <br>
@@ -300,10 +300,10 @@ Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/qua
 [Prometheus](https://prometheus.io/) <br>
 [Thanos (Prometheus long term storage)](https://thanos.io/) <br>
 [Cortex (Prometheus long term storage)](https://cortexmetrics.io/) <br>
-[OpenMetrics](https://github.com/OpenObservability/OpenMetrics) ⭐ 2,535 | 🐛 30 | 🌐 Go | 📅 2026-07-19 <br>
-[eBPF exporter (Prometheus)](https://github.com/cloudflare/ebpf_exporter) ⭐ 2,631 | 🐛 17 | 🌐 Go | 📅 2026-08-03 <br>
-[Node Exporter (Prometheus)](https://github.com/prometheus/node_exporter) ⭐ 13,709 | 🐛 324 | 🌐 Go | 📅 2026-08-19 <br>
-[cAdvisor (container monitoring)](https://github.com/google/cadvisor) ⭐ 19,375 | 🐛 64 | 🌐 Go | 📅 2026-07-20 <br>
+[OpenMetrics](https://github.com/OpenObservability/OpenMetrics) ⭐ 2,536 | 🐛 30 | 🌐 Go | 📅 2026-07-19 <br>
+[eBPF exporter (Prometheus)](https://github.com/cloudflare/ebpf_exporter) ⭐ 2,634 | 🐛 18 | 🌐 Go | 📅 2026-08-21 <br>
+[Node Exporter (Prometheus)](https://github.com/prometheus/node_exporter) ⭐ 13,713 | 🐛 317 | 🌐 Go | 📅 2026-08-21 <br>
+[cAdvisor (container monitoring)](https://github.com/google/cadvisor) ⭐ 19,376 | 🐛 63 | 🌐 Go | 📅 2026-07-20 <br>
 [ClichHouse (Yandex)](https://clickhouse.yandex/) <br>
 [Druid (Imply)](http://druid.io/) <br>
 [Pinot (Linkedin)](https://github.com/linkedin/pinot/) <br>
@@ -313,7 +313,7 @@ Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/qua
 [Vector (host monitoring)](http://getvector.io/) <br>
 [okmeter](https://okmeter.io) <br>
 [Datadog](https://www.datadoghq.com) <br>
-[TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,385 | 🐛 393 | 🌐 C | 📅 2026-08-20 <br>
+[TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,396 | 🐛 394 | 🌐 C | 📅 2026-08-20 <br>
 [KairosDB](https://kairosdb.github.io) <br>
 [Zabbix](https://www.zabbix.com) <br>
 [PagerDuty](https://www.pagerduty.com) <br>
@@ -334,7 +334,7 @@ Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/qua
 [Jaeger (Uber)](https://www.jaegertracing.io/) <br>
 [Zipkin](http://zipkin.io/) <br>
 [Lightstep](https://lightstep.com) <br>
-[Tempo (Grafana)](https://github.com/grafana/tempo) ⭐ 5,445 | 🐛 171 | 🌐 Go | 📅 2026-08-21 <br>
+[Tempo (Grafana)](https://github.com/grafana/tempo) ⭐ 5,449 | 🐛 170 | 🌐 Go | 📅 2026-08-22 <br>
 [Skywalking](http://skywalking.io/) <br>
 [AWS X-Ray](https://aws.amazon.com/xray/) <br>
 
@@ -343,7 +343,7 @@ Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/qua
 [Yandex.Tank (C++, Python, Go)](https://github.com/yandex/yandex-tank) ⭐ 2,596 | 🐛 84 | 🌐 Python | 📅 2026-08-19 <br>
 [Overload (storage for Yandex.Tank results)](https://overload.yandex.net) <br>
 [Gatling (Scala)](https://gatling.io/) <br>
-[k6](https://github.com/loadimpact/k6) ⭐ 31,289 | 🐛 794 | 🌐 Go | 📅 2026-08-20 <br>
+[k6](https://github.com/loadimpact/k6) ⭐ 31,294 | 🐛 790 | 🌐 Go | 📅 2026-08-22 <br>
 [Locust (Python)](https://locust.io/) <br>
 [Vegeta (HTTP 1.1/2)](https://github.com/tsenart/vegeta) ⭐ 25,154 | 🐛 122 | 🌐 Go | 📅 2026-02-16 <br>
 [h2load (HTTP 1.1/2)](https://nghttp2.org/documentation/h2load.1.html) <br>
@@ -352,16 +352,16 @@ Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/qua
 # Log management
 
 [What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
-[Vector](https://github.com/timberio/vector) ⭐ 22,423 | 🐛 2,524 | 🌐 Rust | 📅 2026-08-20 <br>
+[Vector](https://github.com/timberio/vector) ⭐ 22,430 | 🐛 2,525 | 🌐 Rust | 📅 2026-08-22 <br>
 [fluentd](https://www.fluentd.org/) <br>
 [Logstash](https://www.elastic.co/products/logstash) <br>
 [Graylog2](https://www.graylog.org/) <br>
 [syslog-ng](https://syslog-ng.org/) <br>
 [rsyslog](http://www.rsyslog.com/) <br>
-[fluentbit](https://github.com/fluent/fluent-bit/) ⭐ 8,049 | 🐛 773 | 🌐 C | 📅 2026-08-20 <br>
+[fluentbit](https://github.com/fluent/fluent-bit/) ⭐ 8,055 | 🐛 775 | 🌐 C | 📅 2026-08-21 <br>
 [filebit](https://www.elastic.co/guide/en/beats/filebeat/master/filebeat-overview.html) <br>
 [Kibana](https://www.elastic.co/kibana) <br>
-[Loki](https://github.com/grafana/loki) ⭐ 28,769 | 🐛 1,717 | 🌐 Go | 📅 2026-08-21 <br>
+[Loki](https://github.com/grafana/loki) ⭐ 28,774 | 🐛 1,722 | 🌐 Go | 📅 2026-08-21 <br>
 [Splunk](https://www.splunk.com/) <br>
 [GoAccess](https://goaccess.io/) <br>
 [Bookkeeper](https://bookkeeper.apache.org/distributedlog/) <br>
@@ -379,7 +379,7 @@ Online solutions: <br>
 [Overview site](http://featureflags.io) <br>
 [FF4J](http://ff4j.org/) <br>
 [Togglz (Java)](https://www.togglz.org) <br>
-[Unleash (simple)](https://github.com/Unleash/unleash) ⭐ 13,747 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-20 <br>
+[Unleash (simple)](https://github.com/Unleash/unleash) ⭐ 13,747 | 🐛 57 | 🌐 TypeScript | 📅 2026-08-21 <br>
 [LaunchDarkly (cloud provider)](https://launchdarkly.com) <br>
 [piranha (Uber tool to refactor feature flag code)](https://github.com/uber/piranha) ⭐ 2,470 | 🐛 68 | 🌐 Rust | 📅 2026-04-02 <br>
 
@@ -425,8 +425,8 @@ Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-
 [BPF introduction](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) <br>
 [XDP](https://www.iovisor.org/technology/xdp) <br>
 [BPFd (remote BPF by Google)](https://github.com/joelagnel/bpfd) ⚠️ Archived <br>
-[bpftrace (high-level langauge for writing eBPF programs)](https://github.com/iovisor/bpftrace) ⭐ 10,291 | 🐛 251 | 🌐 C++ | 📅 2026-08-19 <br>
-[BCC (Tools for BPF-based Linux IO analysis, networking, monitoring, and more)](https://github.com/iovisor/bcc) ⭐ 22,626 | 🐛 1,068 | 🌐 C | 📅 2026-08-20 <br>
+[bpftrace (high-level langauge for writing eBPF programs)](https://github.com/iovisor/bpftrace) ⭐ 10,293 | 🐛 251 | 🌐 C++ | 📅 2026-08-21 <br>
+[BCC (Tools for BPF-based Linux IO analysis, networking, monitoring, and more)](https://github.com/iovisor/bcc) ⭐ 22,628 | 🐛 1,070 | 🌐 C | 📅 2026-08-20 <br>
 [How to achieve low latency with 10Gbps Ethernet (Cloudflare)](https://blog.cloudflare.com/how-to-achieve-low-latency/) <br>
 [BBR: Congestion-based congestion control](https://blog.acolyer.org/2017/03/31/bbr-congestion-based-congestion-control/), [BBR, the new kid on the TCP block](https://blog.apnic.net/2017/05/09/bbr-new-kid-tcp-block/) <br>
 [Making Linux TCP Fast](https://netdevconf.org/1.2/papers/bbr-netdev-1.2.new.new.pdf) <br>
@@ -442,7 +442,7 @@ Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-
 [MIT's TCP ex Machina: Computer-Generated Congestion Control](http://web.mit.edu/remy/) <br>
 [Introduction to modern network load balancing and proxying (Envoy)](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) <br>
 [BGP in 2017](http://www.potaroo.net/ispcol/2018-01/bgp2017.html) <br>
-[CoreDNS](https://github.com/coredns/coredns) ⭐ 14,259 | 🐛 294 | 🌐 Go | 📅 2026-08-20 <br>
+[CoreDNS](https://github.com/coredns/coredns) ⭐ 14,266 | 🐛 296 | 🌐 Go | 📅 2026-08-20 <br>
 [Knot DNS](https://gitlab.labs.nic.cz/knot/knot-dns) <br>
 [Knot Resolver](https://gitlab.labs.nic.cz/knot/knot-resolver) <br>
 [Maglev: A Fast and Reliable Software Network Load Balancer](https://research.google.com/pubs/pub44824.html) <br>
@@ -490,7 +490,7 @@ Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-
 
 # SRE (Site Reliability Engineering)
 
-[Napking math numbers for estimating hardware and software performance](https://github.com/sirupsen/napkin-math) ⭐ 5,653 | 🐛 10 | 🌐 Rust | 📅 2026-03-21 <br>
+[Napking math numbers for estimating hardware and software performance](https://github.com/sirupsen/napkin-math) ⭐ 5,657 | 🐛 10 | 🌐 Rust | 📅 2026-03-21 <br>
 [USENIX SREcon APAC 2022: Computing Performance: What's on the Horizon (Great overview by Brendan Gregg)](https://www.brendangregg.com/blog/2023-03-01/computer-performance-future-2022.html) <br>
 [Google Site Reliability Engineering book](https://landing.google.com/sre/book.html) <br>
 [Experience from running Uber payment service](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/) <br>
@@ -510,7 +510,7 @@ Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-
 [Understanding PCIe Configuration for Maximum Performance](https://community.mellanox.com/docs/DOC-2496) <br>
 [Netflix Serving 100 Gbps from an Open Connect Appliance](https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99) <br>
 [Aphyr Hermitage - info and testing of database isolation levels](https://github.com/aphyr/hermitage) ⭐ 0 | 🐛 0 | 📅 2015-09-04 <br>
-[A collection of postmortems](https://github.com/danluu/post-mortems) ⭐ 12,259 | 🐛 11 | 📅 2026-06-22 <br>
+[A collection of postmortems](https://github.com/danluu/post-mortems) ⭐ 12,262 | 🐛 11 | 📅 2026-06-22 <br>
 [Jeff Dean's latency numbers plotted over time](https://github.com/colin-scott/interactive_latencies) ⭐ 2,170 | 🐛 8 | 🌐 JavaScript | 📅 2024-08-11 <br>
 [Sakila test DB](https://dev.mysql.com/doc/sakila/en/) <br>
 [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e) <br>
@@ -525,7 +525,7 @@ Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-
 [How Netflix Tunes EC2](http://www.brendangregg.com/blog/2017-12-31/reinvent-netflix-ec2-tuning.html) <br>
 [Write-Behind Logging](http://www.vldb.org/pvldb/vol10/p337-arulraj.pdf) <br>
 [Cache-Oblivious Algorithms and Data Structures](http://erikdemaine.org/papers/BRICS2002/paper.pdf) <br>
-[Oracle Graal (Hotspot replacement)](https://github.com/oracle/graal) ⭐ 21,668 | 🐛 848 | 🌐 Java | 📅 2026-08-21 <br>
+[Oracle Graal (Hotspot replacement)](https://github.com/oracle/graal) ⭐ 21,666 | 🐛 849 | 🌐 Java | 📅 2026-08-22 <br>
 [Understanding How Graal Works - a Java JIT Compiler Written in Java](http://chrisseaton.com/truffleruby/jokerconf17/) <br>
 [Understanding disk usage in Linux](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/) <br>
 [On time and UTC](https://zachholman.com/talk/utc-is-enough-for-everyone-right) <br>
@@ -562,7 +562,7 @@ Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-
 [Mutuals TLS (mTLS)](https://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication) <br>
 [Mozilla server side TLS information](https://wiki.mozilla.org/Security/Server_Side_TLS) <br>
 [BadTLS (SSL testing)](https://github.com/chromium/badssl.com) ⭐ 3,042 | 🐛 208 | 🌐 HTML | 📅 2026-06-01 <br>
-[testssl.sh](https://github.com/drwetter/testssl.sh) ⭐ 9,178 | 🐛 250 | 🌐 Shell | 📅 2026-08-15 <br>
+[testssl.sh](https://github.com/drwetter/testssl.sh) ⭐ 9,178 | 🐛 251 | 🌐 Shell | 📅 2026-08-15 <br>
 [Mozilla Observatory](https://observatory.mozilla.org/) <br>
 [HTTP security headers testing](https://securityheaders.io/) <br>
 [Qualys SSL tests](https://www.ssllabs.com/ssltest) <br>
@@ -584,8 +584,8 @@ Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-
 [HTTP/3 test site (Fastly)](https://http3.is/) <br>
 [HTTP/3 Explained (book)](https://http3-explained.haxx.se/) <br>
 [The Illustrated QUIC Connection](https://quic.xargs.org/) <br>
-[msquic (QUIC protocol implementation from Microsoft)](https://github.com/microsoft/msquic) ⭐ 4,763 | 🐛 319 | 🌐 C | 📅 2026-08-20 <br>
-[quiche (QUIC protocol implementation from Cloudflare)](https://github.com/cloudflare/quiche) ⭐ 11,786 | 🐛 336 | 🌐 Rust | 📅 2026-08-14 <br>
+[msquic (QUIC protocol implementation from Microsoft)](https://github.com/microsoft/msquic) ⭐ 4,766 | 🐛 325 | 🌐 C | 📅 2026-08-21 <br>
+[quiche (QUIC protocol implementation from Cloudflare)](https://github.com/cloudflare/quiche) ⭐ 11,788 | 🐛 337 | 🌐 Rust | 📅 2026-08-14 <br>
 
 # Authorization and Authentication
 
@@ -603,8 +603,8 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 
 [OpenSSL](https://www.openssl.org/) <br>
 [BoringSSL (Google)](https://boringssl.googlesource.com/boringssl/) <br>
-[s2n (AWS)](https://github.com/awslabs/s2n) ⭐ 4,753 | 🐛 318 | 🌐 C | 📅 2026-08-21 <br>
-[LibreSSL (OpenBSD OpenSSL fork)](https://github.com/libressl-portable/portable) ⭐ 1,487 | 🐛 104 | 🌐 C | 📅 2026-08-16 <br>
+[s2n (AWS)](https://github.com/awslabs/s2n) ⭐ 4,753 | 🐛 320 | 🌐 C | 📅 2026-08-21 <br>
+[LibreSSL (OpenBSD OpenSSL fork)](https://github.com/libressl-portable/portable) ⭐ 1,488 | 🐛 106 | 🌐 C | 📅 2026-08-16 <br>
 [Google Tink](https://github.com/google/tink) ⚠️ Archived <br>
 [Thesis (encryption framework)](https://github.com/cossacklabs/themis) ⭐ 1,973 | 🐛 31 | 🌐 C | 📅 2026-04-24 <br>
 [Acra (DB encryption proxy)](https://github.com/cossacklabs/acra) ⭐ 1,492 | 🐛 29 | 🌐 Go | 📅 2026-04-23 <br>
@@ -619,7 +619,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Should we MAC-then-encrypt or encrypt-then-MAC?](https://crypto.stackexchange.com/questions/202/should-we-mac-then-encrypt-or-encrypt-then-mac) <br>
 [Authenticated Encryption: Relations among notions and analysis of the generic composition paradigm](https://eprint.iacr.org/2000/025) <br>
 [How to choose an Authenticated Encryption mode](https://blog.cryptographyengineering.com/2012/05/19/how-to-choose-authenticated-encryption/) <br>
-[Awesome cryptography repository](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,082 | 🐛 72 | 📅 2026-07-15 <br>
+[Awesome cryptography repository](https://github.com/sobolevn/awesome-cryptography) ⭐ 7,084 | 🐛 72 | 📅 2026-07-15 <br>
 [Mind Your Keys? A Security Evaluation of Java Keystores](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02B-1_Focardi_paper.pdf) <br>
 [Hash-based message authentication code](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code) <br>
 [Authenticated Encryption with Associated Data (AEAD)](https://en.wikipedia.org/wiki/Authenticated_encryption) <br>
@@ -637,7 +637,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
 [Hybrid Public Key Encryption (HPKE) RFC](https://datatracker.ietf.org/doc/html/rfc9180), [Example of HPKE usage in Cloudflare](https://blog.cloudflare.com/using-hpke-to-encrypt-request-payloads/) <br>
-[Fully Homomorphic Encryption library (Google, C++)](https://github.com/google/fully-homomorphic-encryption) ⭐ 3,700 | 🐛 2 | 🌐 Starlark | 📅 2026-08-16 <br>
+[Fully Homomorphic Encryption library (Google, C++)](https://github.com/google/fully-homomorphic-encryption) ⭐ 3,702 | 🐛 2 | 🌐 Starlark | 📅 2026-08-16 <br>
 [Understanding HKDF](https://soatok.blog/2021/11/17/understanding-hkdf/) <br>
 [Database Cryptography Fur the Rest of Us](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/) <br>
 [Intro to Linux Kernel Key Retention Service](https://blog.cloudflare.com/the-linux-kernel-key-retention-service-and-why-you-should-use-it-in-your-next-application/) <br>
@@ -650,11 +650,11 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Meow hash](https://github.com/cmuratori/meow_hash) ⭐ 1,829 | 🐛 22 | 🌐 C++ | 📅 2022-07-31 <br>
 [HighwayHash and SipHash (Google)](https://github.com/google/highwayhash/) ⚠️ Archived <br>
 [SipHash (original)](https://131002.net/siphash/) <br>
-[BLAKE3 (crypto)](https://github.com/BLAKE3-team/BLAKE3) ⭐ 6,381 | 🐛 196 | 🌐 Assembly | 📅 2026-08-20 <br>
+[BLAKE3 (crypto)](https://github.com/BLAKE3-team/BLAKE3) ⭐ 6,383 | 🐛 196 | 🌐 Assembly | 📅 2026-08-20 <br>
 [BLAKE2 (crypto)](https://blake2.net/) <br>
 [xxHash](http://www.xxhash.com/) <br>
-[MurmurHash3](https://github.com/aappleby/smhasher) ⭐ 2,887 | 🐛 69 | 🌐 C++ | 📅 2026-06-25 <br>
-[argon2 (password hashing)](https://github.com/P-H-C/phc-winner-argon2) ⭐ 5,353 | 🐛 102 | 🌐 C | 📅 2024-08-06 <br>
+[MurmurHash3](https://github.com/aappleby/smhasher) ⭐ 2,888 | 🐛 69 | 🌐 C++ | 📅 2026-06-25 <br>
+[argon2 (password hashing)](https://github.com/P-H-C/phc-winner-argon2) ⭐ 5,354 | 🐛 102 | 🌐 C | 📅 2024-08-06 <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
 [yescrypt (KDF and password hashing)](https://www.openwall.com/yescrypt/) <br>
 ["How to Encipher Messages on a Small Domain. Deterministic Encryption and the Thorp Shuffle" (encryption hashing whitepaper)](https://www.cs.ucdavis.edu/~rogaway/papers/thorp.pdf) <br>
@@ -664,13 +664,13 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [UUID version 6/7/8 RFC draft](https://datatracker.ietf.org/doc/draft-peabody-dispatch-new-uuid-format/) <br>
 [UUID version 6/7/8 RFC work in progress](https://github.com/uuid6/uuid6-ietf-draft) ⚠️ Archived <br>
 [UUID version 7 playground](http://www.new-uuid.info/) <br>
-[TypeID (type-safe extension of UUIDv7)](https://github.com/jetpack-io/typeid) ⭐ 3,631 | 🐛 10 | 🌐 Go | 📅 2026-07-17 <br>
+[TypeID (type-safe extension of UUIDv7)](https://github.com/jetpack-io/typeid) ⭐ 3,632 | 🐛 10 | 🌐 Go | 📅 2026-07-17 <br>
 [Why UUIDv7? (RU)](https://habr.com/ru/post/572700/) <br>
-[KSUID](https://github.com/segmentio/ksuid) ⭐ 5,264 | 🐛 22 | 🌐 Go | 📅 2026-06-25 <br>
+[KSUID](https://github.com/segmentio/ksuid) ⭐ 5,265 | 🐛 22 | 🌐 Go | 📅 2026-06-25 <br>
 
 # Real User Monitoring
 
-[boomerang library](https://github.com/akamai/boomerang) ⭐ 1,923 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-10 and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
+[boomerang library](https://github.com/akamai/boomerang) ⭐ 1,924 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-10 and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
 Custome backend required for boomerang - could use [boomcatch](https://github.com/springernature/boomcatch) ⭐ 111 | 🐛 26 | 🌐 JavaScript | 📅 2026-03-10 and [statsd](https://github.com/statsd/statsd) ⭐ 18,074 | 🐛 90 | 🌐 JavaScript | 📅 2025-05-20 <br>
 Commercial solution is [Akamai mPulse](https://www.akamai.com/us/en/products/performance/mpulse-real-user-monitoring.jsp) <br>
 [sitespeed.io tools](https://github.com/sitespeedio) <br>
@@ -684,7 +684,7 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 
 [Learn headless browser automation](https://theheadless.dev/) <br>
 [Playwright](https://playwright.dev/) <br>
-[QA Wolf (Playwright scripts generation)](https://github.com/qawolf/qawolf) ⭐ 3,442 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21 <br>
+[QA Wolf (Playwright scripts generation)](https://github.com/qawolf/qawolf) ⭐ 3,442 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-21 <br>
 [Headless Recorder (Playwright/Puppeteer scripts generation)](https://github.com/checkly/headless-recorder) ⚠️ Archived <br>
 [Puppeteer](https://pptr.dev/) <br>
 [Selenium](https://www.selenium.dev/) <br>
@@ -695,34 +695,34 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 
 [htop](https://github.com/hishamhm/htop) ⚠️ Archived <br>
 [gtop](https://github.com/aksakalli/gtop) ⭐ 9,929 | 🐛 42 | 🌐 JavaScript | 📅 2025-11-06 <br>
-[nvtop](https://github.com/Syllo/nvtop) ⭐ 10,930 | 🐛 144 | 🌐 C | 📅 2026-05-06 <br>
+[nvtop](https://github.com/Syllo/nvtop) ⭐ 10,932 | 🐛 144 | 🌐 C | 📅 2026-05-06 <br>
 [k6 (load testing)](https://k6.io/) <br>
 [dnstrace](https://github.com/rs/dnstrace) ⭐ 284 | 🐛 7 | 🌐 Go | 📅 2022-12-10 <br>
 [upx](https://upx.github.io/) <br>
-[bat](https://github.com/sharkdp/bat) ⭐ 60,232 | 🐛 423 | 🌐 Rust | 📅 2026-08-11 <br>
-[httpie](https://github.com/jakubroztocil/httpie) ⭐ 38,437 | 🐛 332 | 🌐 Python | 📅 2024-12-17 <br>
-[smenu](https://github.com/p-gen/smenu) ⭐ 2,491 | 🐛 4 | 🌐 C | 📅 2026-04-17 <br>
-[awesome tmux](https://github.com/rothgar/awesome-tmux) ⭐ 10,255 | 🐛 6 | 📅 2026-08-07 <br>
+[bat](https://github.com/sharkdp/bat) ⭐ 60,229 | 🐛 423 | 🌐 Rust | 📅 2026-08-11 <br>
+[httpie](https://github.com/jakubroztocil/httpie) ⭐ 38,443 | 🐛 332 | 🌐 Python | 📅 2024-12-17 <br>
+[smenu](https://github.com/p-gen/smenu) ⭐ 2,492 | 🐛 4 | 🌐 C | 📅 2026-04-17 <br>
+[awesome tmux](https://github.com/rothgar/awesome-tmux) ⭐ 10,259 | 🐛 6 | 📅 2026-08-07 <br>
 [py-spy (python profiler)](https://github.com/benfred/py-spy) ⭐ 15,445 | 🐛 237 | 🌐 Rust | 📅 2026-08-14 <br>
-[kubespy](https://github.com/pulumi/kubespy) ⭐ 3,078 | 🐛 18 | 🌐 Go | 📅 2026-08-20 <br>
-[up](https://github.com/akavel/up) ⭐ 8,836 | 🐛 30 | 🌐 Go | 📅 2024-09-05 <br>
+[kubespy](https://github.com/pulumi/kubespy) ⭐ 3,078 | 🐛 18 | 🌐 Go | 📅 2026-08-22 <br>
+[up](https://github.com/akavel/up) ⭐ 8,835 | 🐛 30 | 🌐 Go | 📅 2024-09-05 <br>
 [doh](https://github.com/picatz/doh) ⭐ 121 | 🐛 4 | 🌐 Go | 📅 2026-07-03 <br>
 [fx](https://github.com/antonmedv/fx) ⭐ 20,586 | 🐛 25 | 🌐 Go | 📅 2026-07-28 <br>
-[jid](https://github.com/simeji/jid) ⭐ 7,134 | 🐛 10 | 🌐 Go | 📅 2026-08-02 <br>
-[dive](https://github.com/wagoodman/dive) ⭐ 54,481 | 🐛 211 | 🌐 Go | 📅 2025-12-15 <br>
-[nnn](https://github.com/jarun/nnn) ⭐ 21,819 | 🐛 4 | 🌐 C | 📅 2026-08-17 <br>
+[jid](https://github.com/simeji/jid) ⭐ 7,135 | 🐛 10 | 🌐 Go | 📅 2026-08-02 <br>
+[dive](https://github.com/wagoodman/dive) ⭐ 54,481 | 🐛 212 | 🌐 Go | 📅 2025-12-15 <br>
+[nnn](https://github.com/jarun/nnn) ⭐ 21,820 | 🐛 5 | 🌐 C | 📅 2026-08-17 <br>
 [ethr](https://github.com/Microsoft/Ethr) ⭐ 5,866 | 🐛 51 | 🌐 Go | 📅 2026-07-03 <br>
-[termshark (CLI UI for Wireshark)](https://github.com/gcla/termshark) ⭐ 9,960 | 🐛 50 | 🌐 Go | 📅 2024-04-30 <br>
+[termshark (CLI UI for Wireshark)](https://github.com/gcla/termshark) ⭐ 9,959 | 🐛 50 | 🌐 Go | 📅 2024-04-30 <br>
 [xdpcap (tcpdump for XDP)](https://github.com/cloudflare/xdpcap) ⭐ 782 | 🐛 16 | 🌐 Go | 📅 2026-07-30 <br>
 [flan (nmap based vulnerability scanner)](https://github.com/cloudflare/flan) ⚠️ Archived <br>
-[broot (files)](https://github.com/Canop/broot) ⭐ 12,903 | 🐛 236 | 🌐 Rust | 📅 2026-08-19 <br>
-[bandwidth](https://github.com/imsnif/bandwhich) ⭐ 11,906 | 🐛 55 | 🌐 Rust | 📅 2026-08-01 <br>
-[sandmap](https://github.com/trimstray/sandmap) ⭐ 1,864 | 🐛 13 | 🌐 Shell | 📅 2024-11-19 <br>
-[duf (advanced du)](https://github.com/muesli/duf) ⭐ 15,265 | 🐛 81 | 🌐 Go | 📅 2026-01-13 <br>
+[broot (files)](https://github.com/Canop/broot) ⭐ 12,905 | 🐛 235 | 🌐 Rust | 📅 2026-08-21 <br>
+[bandwidth](https://github.com/imsnif/bandwhich) ⭐ 11,912 | 🐛 55 | 🌐 Rust | 📅 2026-08-01 <br>
+[sandmap](https://github.com/trimstray/sandmap) ⭐ 1,862 | 🐛 13 | 🌐 Shell | 📅 2024-11-19 <br>
+[duf (advanced du)](https://github.com/muesli/duf) ⭐ 15,266 | 🐛 82 | 🌐 Go | 📅 2026-01-13 <br>
 
 # Misc
 
-[High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,432 | 🐛 26 | 📅 2026-01-04 <br>
+[High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,447 | 🐛 26 | 📅 2026-01-04 <br>
 [Another github repo](https://github.com/rShetty/awesome-distributed-systems) ⭐ 1,630 | 🐛 2 | 📅 2025-07-23 <br>
 
 # Videos
@@ -744,4 +744,4 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
