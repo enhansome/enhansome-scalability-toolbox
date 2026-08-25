@@ -15,7 +15,7 @@
             "last_commit": "2025-02-11T11:21:24Z",
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23224
+            "stars": 23226
           }
         }
       ],
@@ -78,7 +78,7 @@
             "last_commit": "2026-03-21T11:21:21Z",
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5662
+            "stars": 5665
           }
         }
       ],
@@ -162,7 +162,7 @@
             "last_commit": "2026-01-04T03:51:47Z",
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73497
+            "stars": 73516
           }
         }
       ],
@@ -170,7 +170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:43:34.372Z",
+    "last_updated": "2026-08-25T05:04:51.416Z",
     "original_repository": "krootee/awesome-scalability-toolbox",
     "original_repository_id": 104438250,
     "original_repository_sha": "2f860df73ccfead1ae8020261e7c860dd044999d",
