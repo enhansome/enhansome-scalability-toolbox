@@ -15,7 +15,7 @@
             "last_commit": "2025-02-11T11:21:24Z",
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23229
+            "stars": 23230
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2025-10-28T00:53:09Z",
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8353
+            "stars": 8354
           }
         }
       ],
@@ -78,7 +78,7 @@
             "last_commit": "2026-03-21T11:21:21Z",
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5669
+            "stars": 5673
           }
         }
       ],
@@ -162,7 +162,7 @@
             "last_commit": "2026-01-04T03:51:47Z",
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73527
+            "stars": 73549
           }
         }
       ],
@@ -170,9 +170,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:05:10.956Z",
-    "original_repository": "krootee/awesome-scalability-toolbox",
-    "original_repository_id": 104438250,
+    "last_updated": "2026-08-27T12:01:44.345Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 104438250,
+      "language": null,
+      "last_commit": "2023-08-31T14:32:17Z",
+      "owner": "krootee",
+      "repo": "awesome-scalability-toolbox",
+      "stars": 74
+    },
     "original_repository_sha": "2f860df73ccfead1ae8020261e7c860dd044999d",
     "enhanced_repository": "enhansome/enhansome-scalability-toolbox",
     "enhanced_repository_description": null,
