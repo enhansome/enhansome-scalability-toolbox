@@ -15,8 +15,9 @@
             "last_commit": "2025-02-11T11:21:24Z",
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23230
-          }
+            "stars": 23231
+          },
+          "first_seen": "2026-08-28T16:49:12.578Z"
         }
       ],
       "title": "Kubernetes"
@@ -37,7 +38,8 @@
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
             "stars": 8354
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.578Z"
         }
       ],
       "title": "gRPC"
@@ -58,7 +60,8 @@
             "owner": "yandex",
             "repo": "yandex-tank",
             "stars": 2596
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.578Z"
         }
       ],
       "title": "Load testing"
@@ -78,8 +81,9 @@
             "last_commit": "2026-03-21T11:21:21Z",
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5673
-          }
+            "stars": 5685
+          },
+          "first_seen": "2026-08-28T16:49:12.578Z"
         }
       ],
       "title": "SRE (Site Reliability Engineering)"
@@ -100,7 +104,8 @@
             "owner": "rurban",
             "repo": "smhasher",
             "stars": 2169
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.578Z"
         }
       ],
       "title": "Hashing"
@@ -121,7 +126,8 @@
             "owner": "akamai",
             "repo": "boomerang",
             "stars": 1924
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.578Z"
         }
       ],
       "title": "Real User Monitoring"
@@ -142,7 +148,8 @@
             "owner": "hishamhm",
             "repo": "htop",
             "stars": 5895
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.578Z"
         }
       ],
       "title": "Tools"
@@ -162,15 +169,16 @@
             "last_commit": "2026-01-04T03:51:47Z",
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73554
-          }
+            "stars": 73572
+          },
+          "first_seen": "2026-08-28T16:49:12.578Z"
         }
       ],
       "title": "Misc"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:23:43.675Z",
+    "last_updated": "2026-08-28T16:49:12.578Z",
     "original_repository_info": {
       "archived": false,
       "id": 104438250,
