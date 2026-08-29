@@ -53,7 +53,7 @@
             "open_issues": 26,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8354,
+            "stars": 8353,
             "topics": [
               "awesome",
               "awesome-list",
@@ -145,7 +145,7 @@
             "open_issues": 46,
             "owner": "rurban",
             "repo": "smhasher",
-            "stars": 2170,
+            "stars": 2171,
             "topics": [
               "c",
               "c-plus-plus",
@@ -244,7 +244,7 @@
             "open_issues": 26,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73580,
+            "stars": 73591,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:01:17.592Z",
+    "last_updated": "2026-08-29T11:17:39.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
