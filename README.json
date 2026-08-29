@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lens - The way the world runs Kubernetes",
+            "homepage": "https://lenshq.io",
             "id": 157166750,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-11T11:21:24Z",
+            "open_issues": 1170,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23231
+            "stars": 23231,
+            "topics": [
+              "cloud-native",
+              "containers",
+              "devops",
+              "kubernetes",
+              "kubernetes-dashboard",
+              "kubernetes-ui"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
         }
@@ -32,12 +44,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of useful resources for gRPC",
+            "homepage": null,
             "id": 103694867,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2025-10-28T00:53:09Z",
+            "open_issues": 26,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8354
+            "stars": 8354,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "grpc",
+              "protocol-buffers"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
         }
@@ -54,12 +76,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load and performance benchmark tool",
+            "homepage": null,
             "id": 5150693,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T13:21:12Z",
+            "open_issues": 84,
             "owner": "yandex",
             "repo": "yandex-tank",
-            "stars": 2596
+            "stars": 2597,
+            "topics": [
+              "framework",
+              "load-testing",
+              "performance",
+              "performance-test",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
         }
@@ -76,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Techniques and numbers for estimating system's performance from first-principles",
+            "homepage": "https://www.youtube.com/watch?v=IxkSlnrRFqc",
             "id": 189725054,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-21T11:21:21Z",
+            "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5685
+            "stars": 5687,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
         }
@@ -98,12 +136,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hash function quality and speed tests",
+            "homepage": "https://rurban.github.io/smhasher/",
             "id": 18192493,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-04T10:17:41Z",
+            "open_issues": 46,
             "owner": "rurban",
             "repo": "smhasher",
-            "stars": 2169
+            "stars": 2170,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "hash-functions",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
         }
@@ -120,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "End user oriented web performance testing and beaconing",
+            "homepage": "http://akamai.github.io/boomerang/",
             "id": 3327272,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-10T16:33:07Z",
+            "open_issues": 15,
             "owner": "akamai",
             "repo": "boomerang",
-            "stars": 1924
+            "stars": 1924,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
         }
@@ -142,12 +195,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.",
+            "homepage": null,
             "id": 15884926,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-11-17T07:00:48Z",
+            "open_issues": 315,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5895
+            "stars": 5895,
+            "topics": [
+              "c",
+              "console",
+              "console-application",
+              "freebsd",
+              "htop",
+              "linux",
+              "macos",
+              "openbsd",
+              "process-monitor",
+              "system",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
         }
@@ -164,12 +235,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+            "homepage": null,
             "id": 115478820,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-04T03:51:47Z",
+            "open_issues": 26,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73572
+            "stars": 73580,
+            "topics": [
+              "architecture",
+              "awesome",
+              "awesome-list",
+              "backend",
+              "big-data",
+              "computer-science",
+              "design-patterns",
+              "devops",
+              "distributed-systems",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "lists",
+              "machine-learning",
+              "programming",
+              "resources",
+              "scalability",
+              "system",
+              "system-design",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
         }
@@ -178,15 +275,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:49:12.578Z",
+    "last_updated": "2026-08-29T05:01:17.592Z",
     "original_repository_info": {
       "archived": false,
+      "description": "My opinionated list of products and tools used for high-scalability projects",
+      "homepage": null,
       "id": 104438250,
       "language": null,
+      "license": null,
       "last_commit": "2023-08-31T14:32:17Z",
+      "open_issues": 0,
       "owner": "krootee",
       "repo": "awesome-scalability-toolbox",
-      "stars": 74
+      "stars": 74,
+      "topics": [
+        "architecture",
+        "awesome-list",
+        "cloud",
+        "containers",
+        "databases",
+        "distributed-systems",
+        "encryption",
+        "high-availability",
+        "high-performance",
+        "networking",
+        "scalability",
+        "service-mesh",
+        "site-reliability-engineering",
+        "storage",
+        "tracing"
+      ]
     },
     "original_repository_sha": "2f860df73ccfead1ae8020261e7c860dd044999d",
     "enhanced_repository": "enhansome/enhansome-scalability-toolbox",
