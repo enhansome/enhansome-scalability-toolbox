@@ -19,7 +19,7 @@
             "open_issues": 1170,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23231,
+            "stars": 23232,
             "topics": [
               "cloud-native",
               "containers",
@@ -50,7 +50,7 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2025-10-28T00:53:09Z",
-            "open_issues": 26,
+            "open_issues": 25,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
             "stars": 8354,
@@ -85,7 +85,7 @@
             "open_issues": 84,
             "owner": "yandex",
             "repo": "yandex-tank",
-            "stars": 2597,
+            "stars": 2596,
             "topics": [
               "framework",
               "load-testing",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5691,
+            "stars": 5694,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -241,10 +241,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-04T03:51:47Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73610,
+            "stars": 73628,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:02:35.515Z",
+    "last_updated": "2026-08-31T11:02:13.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
