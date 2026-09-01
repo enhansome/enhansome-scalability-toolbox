@@ -19,7 +19,7 @@
             "open_issues": 1170,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23232,
+            "stars": 23233,
             "topics": [
               "cloud-native",
               "containers",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5694,
+            "stars": 5699,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -244,7 +244,7 @@
             "open_issues": 27,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73628,
+            "stars": 73645,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:02:13.212Z",
+    "last_updated": "2026-09-01T09:32:06.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
