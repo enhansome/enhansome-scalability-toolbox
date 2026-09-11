@@ -19,7 +19,7 @@
             "open_issues": 1171,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23231,
+            "stars": 23232,
             "topics": [
               "cloud-native",
               "containers",
@@ -81,7 +81,7 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T00:30:15Z",
+            "last_commit": "2026-09-10T17:01:08Z",
             "open_issues": 85,
             "owner": "yandex",
             "repo": "yandex-tank",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5720,
+            "stars": 5722,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -145,7 +145,7 @@
             "open_issues": 46,
             "owner": "rurban",
             "repo": "smhasher",
-            "stars": 2175,
+            "stars": 2174,
             "topics": [
               "c",
               "c-plus-plus",
@@ -204,7 +204,7 @@
             "open_issues": 315,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5896,
+            "stars": 5895,
             "topics": [
               "c",
               "console",
@@ -241,10 +241,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-04T03:51:47Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73843,
+            "stars": 73855,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:03:53.053Z",
+    "last_updated": "2026-09-11T09:01:19.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
