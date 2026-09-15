@@ -19,7 +19,7 @@
             "open_issues": 1171,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23234,
+            "stars": 23235,
             "topics": [
               "cloud-native",
               "containers",
@@ -53,7 +53,7 @@
             "open_issues": 25,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8355,
+            "stars": 8356,
             "topics": [
               "awesome",
               "awesome-list",
@@ -81,7 +81,7 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T13:47:19Z",
+            "last_commit": "2026-09-14T16:49:37Z",
             "open_issues": 85,
             "owner": "yandex",
             "repo": "yandex-tank",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5732,
+            "stars": 5733,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -177,7 +177,7 @@
             "open_issues": 15,
             "owner": "akamai",
             "repo": "boomerang",
-            "stars": 1925,
+            "stars": 1924,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -244,7 +244,7 @@
             "open_issues": 29,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73911,
+            "stars": 73950,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:02:50.122Z",
+    "last_updated": "2026-09-15T09:32:09.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
