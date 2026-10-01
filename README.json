@@ -19,7 +19,7 @@
             "open_issues": 1168,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23240,
+            "stars": 23241,
             "topics": [
               "cloud-native",
               "containers",
@@ -50,7 +50,7 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2025-10-28T00:53:09Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
             "stars": 8357,
@@ -81,7 +81,7 @@
             "id": 5150693,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T10:09:06Z",
+            "last_commit": "2026-10-01T10:35:09Z",
             "open_issues": 90,
             "owner": "yandex",
             "repo": "yandex-tank",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5762,
+            "stars": 5767,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -141,8 +141,8 @@
             "id": 18192493,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T11:54:03Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-01T08:45:46Z",
+            "open_issues": 46,
             "owner": "rurban",
             "repo": "smhasher",
             "stars": 2178,
@@ -244,7 +244,7 @@
             "open_issues": 30,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 74425,
+            "stars": 74448,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:38:22.785Z",
+    "last_updated": "2026-10-01T11:05:51.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
