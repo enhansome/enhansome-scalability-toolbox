@@ -50,7 +50,7 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2025-10-28T00:53:09Z",
-            "open_issues": 29,
+            "open_issues": 31,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
             "stars": 8356,
@@ -204,7 +204,7 @@
             "open_issues": 315,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5889,
+            "stars": 5890,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 30,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 74522,
+            "stars": 74543,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:44:18.335Z",
+    "last_updated": "2026-10-06T10:34:38.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
