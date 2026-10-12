@@ -16,10 +16,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-02-11T11:21:24Z",
-            "open_issues": 1164,
+            "open_issues": 1163,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23243,
+            "stars": 23246,
             "topics": [
               "cloud-native",
               "containers",
@@ -53,7 +53,7 @@
             "open_issues": 31,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8355,
+            "stars": 8357,
             "topics": [
               "awesome",
               "awesome-list",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5797,
+            "stars": 5798,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -141,11 +141,11 @@
             "id": 18192493,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T08:45:46Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-11T17:23:03Z",
+            "open_issues": 45,
             "owner": "rurban",
             "repo": "smhasher",
-            "stars": 2179,
+            "stars": 2180,
             "topics": [
               "c",
               "c-plus-plus",
@@ -177,7 +177,7 @@
             "open_issues": 15,
             "owner": "akamai",
             "repo": "boomerang",
-            "stars": 1924,
+            "stars": 1925,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -204,7 +204,7 @@
             "open_issues": 315,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5888,
+            "stars": 5887,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 30,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 74639,
+            "stars": 74665,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:57:23.923Z",
+    "last_updated": "2026-10-12T12:18:13.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
