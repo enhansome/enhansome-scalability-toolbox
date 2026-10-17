@@ -50,10 +50,10 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2025-10-28T00:53:09Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8360,
+            "stars": 8361,
             "topics": [
               "awesome",
               "awesome-list",
@@ -85,7 +85,7 @@
             "open_issues": 98,
             "owner": "yandex",
             "repo": "yandex-tank",
-            "stars": 2599,
+            "stars": 2600,
             "topics": [
               "framework",
               "load-testing",
@@ -145,7 +145,7 @@
             "open_issues": 45,
             "owner": "rurban",
             "repo": "smhasher",
-            "stars": 2180,
+            "stars": 2181,
             "topics": [
               "c",
               "c-plus-plus",
@@ -204,7 +204,7 @@
             "open_issues": 312,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5887,
+            "stars": 5889,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 31,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 74757,
+            "stars": 74776,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:11:05.521Z",
+    "last_updated": "2026-10-17T08:43:17.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
