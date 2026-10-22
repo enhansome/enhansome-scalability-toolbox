@@ -19,7 +19,7 @@
             "open_issues": 1164,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23245,
+            "stars": 23243,
             "topics": [
               "cloud-native",
               "containers",
@@ -53,7 +53,7 @@
             "open_issues": 33,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8363,
+            "stars": 8364,
             "topics": [
               "awesome",
               "awesome-list",
@@ -85,7 +85,7 @@
             "open_issues": 98,
             "owner": "yandex",
             "repo": "yandex-tank",
-            "stars": 2601,
+            "stars": 2600,
             "topics": [
               "framework",
               "load-testing",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5813,
+            "stars": 5815,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -141,8 +141,8 @@
             "id": 18192493,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T17:23:03Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-21T16:16:29Z",
+            "open_issues": 45,
             "owner": "rurban",
             "repo": "smhasher",
             "stars": 2182,
@@ -204,7 +204,7 @@
             "open_issues": 312,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5891,
+            "stars": 5892,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 30,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 74904,
+            "stars": 74955,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:29:19.479Z",
+    "last_updated": "2026-10-22T09:32:31.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
