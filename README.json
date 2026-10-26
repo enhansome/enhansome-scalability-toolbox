@@ -19,7 +19,7 @@
             "open_issues": 1164,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23247,
+            "stars": 23248,
             "topics": [
               "cloud-native",
               "containers",
@@ -50,10 +50,10 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2025-10-28T00:53:09Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8366,
+            "stars": 8365,
             "topics": [
               "awesome",
               "awesome-list",
@@ -114,11 +114,11 @@
             "id": 189725054,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-24T22:34:43Z",
+            "last_commit": "2026-10-25T18:13:48Z",
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5816,
+            "stars": 5818,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -204,7 +204,7 @@
             "open_issues": 312,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5892,
+            "stars": 5893,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 31,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75067,
+            "stars": 75101,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:17:22.350Z",
+    "last_updated": "2026-10-26T10:22:48.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
