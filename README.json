@@ -50,10 +50,10 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2025-10-28T00:53:09Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8369,
+            "stars": 8370,
             "topics": [
               "awesome",
               "awesome-list",
@@ -85,7 +85,7 @@
             "open_issues": 98,
             "owner": "yandex",
             "repo": "yandex-tank",
-            "stars": 2599,
+            "stars": 2600,
             "topics": [
               "framework",
               "load-testing",
@@ -114,11 +114,11 @@
             "id": 189725054,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-29T17:18:19Z",
+            "last_commit": "2026-11-02T12:37:50Z",
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5826,
+            "stars": 5827,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -204,7 +204,7 @@
             "open_issues": 312,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5892,
+            "stars": 5891,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 31,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75274,
+            "stars": 75292,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:25:40.148Z",
+    "last_updated": "2026-11-02T12:45:15.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
