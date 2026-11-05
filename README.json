@@ -16,7 +16,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-02-11T11:21:24Z",
-            "open_issues": 1164,
+            "open_issues": 1163,
             "owner": "lensapp",
             "repo": "lens",
             "stars": 23246,
@@ -53,7 +53,7 @@
             "open_issues": 37,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8371,
+            "stars": 8374,
             "topics": [
               "awesome",
               "awesome-list",
@@ -114,11 +114,11 @@
             "id": 189725054,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-02T13:26:10Z",
+            "last_commit": "2026-11-05T10:38:30Z",
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5827,
+            "stars": 5828,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -142,7 +142,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T10:39:49Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "rurban",
             "repo": "smhasher",
             "stars": 2185,
@@ -204,7 +204,7 @@
             "open_issues": 312,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5891,
+            "stars": 5892,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 31,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75406,
+            "stars": 75465,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:23:25.215Z",
+    "last_updated": "2026-11-05T12:38:32.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
