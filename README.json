@@ -19,7 +19,7 @@
             "open_issues": 1163,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23246,
+            "stars": 23245,
             "topics": [
               "cloud-native",
               "containers",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5829,
+            "stars": 5830,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -139,13 +139,13 @@
             "description": "Hash function quality and speed tests",
             "homepage": "https://rurban.github.io/smhasher/",
             "id": 18192493,
-            "language": "C++",
+            "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T10:39:49Z",
+            "last_commit": "2026-11-07T10:07:28Z",
             "open_issues": 47,
             "owner": "rurban",
             "repo": "smhasher",
-            "stars": 2184,
+            "stars": 2183,
             "topics": [
               "c",
               "c-plus-plus",
@@ -204,7 +204,7 @@
             "open_issues": 312,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5892,
+            "stars": 5890,
             "topics": [
               "c",
               "console",
@@ -241,10 +241,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-04T03:51:47Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75507,
+            "stars": 75543,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:20:55.751Z",
+    "last_updated": "2026-11-07T11:14:43.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
