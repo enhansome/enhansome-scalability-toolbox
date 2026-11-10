@@ -141,7 +141,7 @@
             "id": 18192493,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T12:10:57Z",
+            "last_commit": "2026-11-09T16:16:21Z",
             "open_issues": 47,
             "owner": "rurban",
             "repo": "smhasher",
@@ -241,10 +241,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-04T03:51:47Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75593,
+            "stars": 75616,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:12:43.495Z",
+    "last_updated": "2026-11-10T12:52:54.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
