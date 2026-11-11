@@ -19,7 +19,7 @@
             "open_issues": 1164,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23245,
+            "stars": 23247,
             "topics": [
               "cloud-native",
               "containers",
@@ -50,10 +50,10 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2025-10-28T00:53:09Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8377,
+            "stars": 8378,
             "topics": [
               "awesome",
               "awesome-list",
@@ -114,11 +114,11 @@
             "id": 189725054,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T01:24:48Z",
+            "last_commit": "2026-11-11T01:47:47Z",
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5835,
+            "stars": 5836,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -145,7 +145,7 @@
             "open_issues": 47,
             "owner": "rurban",
             "repo": "smhasher",
-            "stars": 2183,
+            "stars": 2184,
             "topics": [
               "c",
               "c-plus-plus",
@@ -204,7 +204,7 @@
             "open_issues": 312,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5891,
+            "stars": 5889,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 32,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75616,
+            "stars": 75637,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:52:54.247Z",
+    "last_updated": "2026-11-11T12:01:13.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
