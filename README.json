@@ -16,7 +16,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-02-11T11:21:24Z",
-            "open_issues": 1164,
+            "open_issues": 1165,
             "owner": "lensapp",
             "repo": "lens",
             "stars": 23247,
@@ -53,7 +53,7 @@
             "open_issues": 39,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8378,
+            "stars": 8379,
             "topics": [
               "awesome",
               "awesome-list",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5836,
+            "stars": 5837,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -204,7 +204,7 @@
             "open_issues": 312,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5889,
+            "stars": 5888,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 32,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75637,
+            "stars": 75661,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:01:13.151Z",
+    "last_updated": "2026-11-12T13:04:32.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
