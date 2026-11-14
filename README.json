@@ -16,10 +16,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-02-11T11:21:24Z",
-            "open_issues": 1165,
+            "open_issues": 1167,
             "owner": "lensapp",
             "repo": "lens",
-            "stars": 23247,
+            "stars": 23248,
             "topics": [
               "cloud-native",
               "containers",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5838,
+            "stars": 5840,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -141,8 +141,8 @@
             "id": 18192493,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T15:10:48Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-14T03:09:27Z",
+            "open_issues": 44,
             "owner": "rurban",
             "repo": "smhasher",
             "stars": 2183,
@@ -204,7 +204,7 @@
             "open_issues": 312,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5887,
+            "stars": 5888,
             "topics": [
               "c",
               "console",
@@ -244,7 +244,7 @@
             "open_issues": 32,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75687,
+            "stars": 75719,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:28:40.721Z",
+    "last_updated": "2026-11-14T11:40:17.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
