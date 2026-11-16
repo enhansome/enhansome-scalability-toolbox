@@ -53,7 +53,7 @@
             "open_issues": 39,
             "owner": "grpc-ecosystem",
             "repo": "awesome-grpc",
-            "stars": 8379,
+            "stars": 8381,
             "topics": [
               "awesome",
               "awesome-list",
@@ -118,7 +118,7 @@
             "open_issues": 10,
             "owner": "sirupsen",
             "repo": "napkin-math",
-            "stars": 5842,
+            "stars": 5844,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.578Z"
@@ -141,8 +141,8 @@
             "id": 18192493,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T03:09:27Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-16T11:13:19Z",
+            "open_issues": 45,
             "owner": "rurban",
             "repo": "smhasher",
             "stars": 2183,
@@ -244,7 +244,7 @@
             "open_issues": 32,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 75756,
+            "stars": 75788,
             "topics": [
               "architecture",
               "awesome",
@@ -275,7 +275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:08:40.565Z",
+    "last_updated": "2026-11-16T13:01:57.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "My opinionated list of products and tools used for high-scalability projects",
